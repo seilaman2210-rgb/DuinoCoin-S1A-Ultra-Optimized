@@ -1,4 +1,7 @@
-*   **Stable Hashrate:** ~784 H/s (Peak performance reached without fluctuations).
-*   **Thermal Profile:** Normal operating temperature. No overheating issues during 1h+ tests.
-*   **Network Difficulty:** The miner is efficient enough to be assigned **ARM Difficulty** by the Duino-Coin pools.
-*   **Stability:** 100% Accepted Shares. No "invalid share" or "rejected" errors detected.
+ARDUINO UNO RESULTS REPORT:
+
+* 784hs~ (stable)
+* temperature (stable)
+* accepted shares (100%)
+* assigned diff **ARM (128)
+* share speed (~0.1 shares/sec at Diff 128, base arduino diff is 10 so its 12+ times higher)
