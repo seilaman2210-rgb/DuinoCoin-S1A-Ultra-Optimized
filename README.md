@@ -9,3 +9,5 @@ ARDUINO UNO RESULTS REPORT:
 * accepted shares (100%)
 * assigned diff **ARM (128)
 * share speed (~0.2 shares/sec at Diff 128, base arduino diff is 10 so its 12+ times higher)
+
+feel free to modify this code or use in your projects, this was just a fun test .-.
