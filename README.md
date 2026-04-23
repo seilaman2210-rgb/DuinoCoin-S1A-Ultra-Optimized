@@ -4,7 +4,7 @@ Report-Results file for easy view:
 
 ARDUINO UNO RESULTS REPORT:
 
-**784hs~750hs (kinda stable)**
+**784hs~ (kinda stable)**
 **temperature (stable)**
 **accepted shares (100%)**
 **assigned diff: ARM (128)**
