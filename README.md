@@ -17,4 +17,4 @@ ARDUINO UNO RESULTS REPORT:
 
 This code is fully compatible with the **official AVR Miner Python script**.
 
-This is a **beta** version of this code, i'll be updating soon
+This is a **beta** version of this code, i'll be updating it soon
