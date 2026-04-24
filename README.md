@@ -9,6 +9,7 @@ ARDUINO UNO RESULTS REPORT:
 **accepted shares (100%)**
 **assigned diff: ARM (128)**
 **share speed (~0.2 shares/sec at Diff 128, base arduino diff is 10 so its 12+ times higher)**
+**Testing Hours Until Now: 4, with no errors or instabilitys**
 
 > This code was only tested on an **Arduino UNO board (16MHz)**. 
 > Results on other boards (like those running at 8MHz) may vary.
